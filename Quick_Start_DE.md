@@ -94,7 +94,7 @@ Die Kameranamen in LMU passen nicht immer zu dem, was die meisten Nutzer erwarte
 | LMU-Bezeichnung | Was sie tatsächlich macht | Im Showcase verwendet als |
 |---|---|---|
 | **Swingman Camera** | Springt hinter das Auto, danach frei bewegbar | Chase Cam |
-| **Onboard Cameras** | Kompakte Cockpit-/Action-Cam-Perspektive | Cockpit Cam |
+| **Onboard Cameras** | Kompakte Cockpit-/Action-Cam-Perspektive | GoPro Cockpit Cam |
 | **Driving Cameras** | Standard-Cockpit-Fahrsicht | Dash Cam |
 | **Tracking Cameras** | TV-/Broadcast-Verfolgerkameras | TV-Kamera |
 | **Spectator Cameras** | Feste Streckenkameras | Supporters |
