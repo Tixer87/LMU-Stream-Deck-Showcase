@@ -94,7 +94,7 @@ LMU's camera labels do not always match what most users would expect.
 | LMU label | What it actually does | Used in Showcase as |
 |---|---|---|
 | **Swingman Camera** | Jumps behind the car, freely movable | Chase Cam |
-| **Onboard Cameras** | Compact cockpit / action cam perspective | Cockpit Cam |
+| **Onboard Cameras** | Compact cockpit / action cam perspective | GoPro Cockpit Cam |
 | **Driving Cameras** | Standard cockpit driving view | Dash Cam |
 | **Tracking Cameras** | TV-style broadcast follow cameras | TV Camera |
 | **Spectator Cameras** | Fixed trackside cameras | Supporters |
