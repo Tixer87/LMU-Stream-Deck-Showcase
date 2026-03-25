@@ -1,4 +1,4 @@
-# Setup Guide – Showcase Edition
+# Setup Guide – Showcase 15 Key Edition
 
 ## Two setup paths
 
