@@ -1,4 +1,4 @@
-# Setup-Guide – Showcase Edition
+# Setup-Guide – Showcase 15 Key Edition
 
 ## Zwei Wege zur Einrichtung
 
