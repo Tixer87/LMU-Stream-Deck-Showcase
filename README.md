@@ -1,4 +1,4 @@
-# LMU Stream Deck Showcase
+# LMU Stream Deck Showcase – 15-Key Layout
 
 A compact showcase profile for **Le Mans Ultimate** designed to give a fast and clean entry into replay and camera control on Stream Deck.
 
