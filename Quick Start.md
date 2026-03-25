@@ -1,4 +1,4 @@
-# LMU Stream Deck Showcase – Quick Start
+# LMU Stream Deck Showcase – 15-Key Layout – Quick Start
 
 ## What you need
 
